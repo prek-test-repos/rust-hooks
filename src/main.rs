@@ -1,3 +1,6 @@
 fn main() {
-    println!("Hello, world!");
+    for arg in std::env::args().skip(1) {
+        print!("{}", arg);
+    }
+    print!("\n");
 }

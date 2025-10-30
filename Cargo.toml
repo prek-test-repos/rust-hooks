@@ -1,6 +1,8 @@
 [package]
-name = "hello-world"
+name = "prek-rust-echo"
 version = "0.1.0"
 edition = "2024"
+description = "A simple cli that echoes its arguments for prek testing"
+license = "MIT"
 
 [dependencies]

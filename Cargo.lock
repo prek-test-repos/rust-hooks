@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "hello-world"
+name = "prek-rust-echo"
 version = "0.1.0"

@@ -1,4 +1,4 @@
 - id: hello-world
   name: Hello World
-  entry: hello-world
+  entry: prek-rust-echo
   language: rust
