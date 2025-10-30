@@ -1,0 +1,4 @@
+- id: hello-world
+  name: Hello World
+  entry: hello-world
+  language: rust
