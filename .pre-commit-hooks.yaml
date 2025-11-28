@@ -2,3 +2,10 @@
   name: Hello World
   entry: prek-rust-echo
   language: rust
+  description: echoes its arguments
+
+- id: hello-world-lib-deps
+  name: Hello World Lib Deps
+  entry: prek-rust-echo-lib-deps
+  language: rust
+  description: requires a library dependency to be added
