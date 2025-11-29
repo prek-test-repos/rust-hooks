@@ -1,0 +1,9 @@
+[package]
+name = "prek-rust-echo-lib-deps"
+version = "0.1.2"
+edition = "2024"
+description = "A simple cli that echoes its arguments for prek testing (with library deps)"
+license = "MIT"
+
+[dependencies]
+# itoa will be added via additional_dependencies in the test
